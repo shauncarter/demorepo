@@ -6,7 +6,7 @@ Demo task by shaun Carter
 
 1. Visit [GitHub.com](https://github.com/)
 1. Click **Sign up**
-1. Enter your email address into the **Enter your address** field and click **Continue**.
+1. Enter your email address into the **Enter your email** field and click **Continue**.
 1. Provide a password and click **Continue**.
 1. Provide a username and click **Continue**.
 1. Specify **y** or **n** to the question **Would you like to receive product updates and announcements via email?**.
